@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Unlucky :(</string>
+    <string name="txt_msg">"Ouch, sorry,
+luck is not on your side
+:(
+
+(or perhaps you downloaded an unlucky apk not from "<a href="https://play.google.com/store/apps/details?id=com.trianguloy.lucky">Play Store</a>")"</string>
+</resources>
